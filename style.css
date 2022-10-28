@@ -1,0 +1,48 @@
+body {
+  background: url(https://www.sliit.lk/wp-content/uploads/2018/02/minimalizm-gradient-background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  font-family: sans-serif;
+}
+.warpper {
+  width: 350px;
+  margin: 8%;
+  padding: 10px;
+  background-color: rgba(0, 0, 0, 0, 23);
+  box-shadow: 0 0 30px rgb(3, 3, 3);
+  border-radius: 20px;
+}
+.heading {
+  text-align: center;
+  padding-top: 40px;
+}
+.heading {
+  color: white;
+  font-size: 30px;
+}
+form {
+  text-align: center;
+}
+form input,
+button {
+  width: 300px;
+  height: 40px;
+  margin-bottom: 30px;
+  border: none;
+  padding-left: 5px;
+  box-sizing: border-box;
+  font-size: 15px;
+  outline: none;
+}
+button {
+  background-color: rgb(86, 86, 197);
+}
+button:hover {
+  box-shadow: 2px 2px 5px #555;
+  background-color: #b511f6;
+  color: white;
+}
+.warpper {
+  margin-inline: auto;
+}
